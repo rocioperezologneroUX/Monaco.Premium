@@ -5,7 +5,7 @@
   --primary-800: #350d5e;
   --primary-700: #560a97;
   --primary-600: #7810d0;
-  --primary-500: #9836fc;
+  --primary-500: #661eae;
   --primary-400: #b269ff;
   --primary-300: #c89bff;
   --primary-200: #e0c9ff;
@@ -29,26 +29,31 @@
   --text-medium-md-line-height: 24px;
   --text-medium-md-font-weight: 500;
   --text-medium-md-font-style: normal;
+
   --text-medium-sm-font-family: Roboto-Medium, sans-serif;
   --text-medium-sm-font-size: 18px;
   --text-medium-sm-line-height: 24px;
   --text-medium-sm-font-weight: 500;
   --text-medium-sm-font-style: normal;
+
   --text-medium-xs-font-family: Roboto-Medium, sans-serif;
   --text-medium-xs-font-size: 16px;
   --text-medium-xs-line-height: 24px;
   --text-medium-xs-font-weight: 500;
   --text-medium-xs-font-style: normal;
+
   --text-medium-xxs-font-family: Roboto-Medium, sans-serif;
   --text-medium-xxs-font-size: 14px;
   --text-medium-xxs-line-height: 20px;
   --text-medium-xxs-font-weight: 500;
   --text-medium-xxs-font-style: normal;
+
   --text-medium-xxxs-font-family: Roboto-Medium, sans-serif;
   --text-medium-xxxs-font-size: 12px;
   --text-medium-xxxs-line-height: 16px;
   --text-medium-xxxs-font-weight: 500;
   --text-medium-xxxs-font-style: normal;
+
   --text-regular-md-font-family: Roboto-Regular, sans-serif;
   --text-regular-md-font-size: 20px;
   --text-regular-md-line-height: 24px;
@@ -59,71 +64,85 @@
   --text-regular-md-strikethrough-line-height: 24px;
   --text-regular-md-strikethrough-font-weight: 400;
   --text-regular-md-strikethrough-font-style: normal;
+
   --text-regular-sm-font-family: Roboto-Regular, sans-serif;
   --text-regular-sm-font-size: 18px;
   --text-regular-sm-line-height: 24px;
   --text-regular-sm-font-weight: 400;
   --text-regular-sm-font-style: normal;
+
   --text-regular-xs-font-family: Roboto-Regular, sans-serif;
   --text-regular-xs-font-size: 16px;
   --text-regular-xs-line-height: 24px;
   --text-regular-xs-font-weight: 400;
   --text-regular-xs-font-style: normal;
+
   --text-regular-xxs-font-family: Roboto-Regular, sans-serif;
   --text-regular-xxs-font-size: 14px;
   --text-regular-xxs-line-height: 20px;
   --text-regular-xxs-font-weight: 400;
   --text-regular-xxs-font-style: normal;
+
   --text-regular-xxxs-font-family: Roboto-Regular, sans-serif;
   --text-regular-xxxs-font-size: 12px;
   --text-regular-xxxs-line-height: 16px;
   --text-regular-xxxs-font-weight: 400;
   --text-regular-xxxs-font-style: normal;
+
   --text-regular-xxs-underlined-font-family: Roboto-Regular, sans-serif;
   --text-regular-xxs-underlined-font-size: 14px;
   --text-regular-xxs-underlined-line-height: 20px;
   --text-regular-xxs-underlined-font-weight: 400;
   --text-regular-xxs-underlined-font-style: normal;
+
   --text-regular-xxs-underlined-font-family: Roboto-Medium, sans-serif;
   --text-regular-xxs-underlined-font-size: 16px;
   --text-regular-xxs-underlined-line-height: 24px;
   --text-regular-xxs-underlined-font-weight: 500;
   --text-regular-xxs-underlined-font-style: normal;
+
   --title-medium-xxxl-font-family: Anti-Medium, sans-serif;
   --title-medium-xxxl-font-size: 32px;
   --title-medium-xxxl-line-height: 36px;
   --title-medium-xxxl-font-weight: 500;
   --title-medium-xxxl-font-style: normal;
+
   --title-medium-xxl-font-family: Anti-Medium, sans-serif;
   --title-medium-xxl-font-size: 28px;
   --title-medium-xxl-line-height: 32px;
   --title-medium-xxl-font-weight: 500;
   --title-medium-xxl-font-style: normal;
+
   --title-medium-xl-font-family: Roboto-Medium, sans-serif;
   --title-medium-xl-font-size: 26px;
   --title-medium-xl-line-height: 32px;
   --title-medium-xl-font-weight: 500;
   --title-medium-xl-font-style: normal;
+
   --title-medium-lg-font-family: Roboto-Medium, sans-serif;
   --title-medium-lg-font-size: 24px;
   --title-medium-lg-line-height: 28px;
   --title-medium-lg-font-weight: 500;
   --title-medium-lg-font-style: normal;
+
   --title-regular-xxxl-font-family: Anti-Regular, sans-serif;
   --title-regular-xxxl-font-size: 32px;
   --title-regular-xxxl-line-height: 36px;
   --title-regular-xxxl-font-weight: 400;
   --title-regular-xxxl-font-style: normal;
+
   --title-regular-xxl-font-family: Anti-Regular, sans-serif;
   --title-regular-xxl-font-size: 28px;
   --title-regular-xxl-line-height: 32px;
   --title-regular-xxl-font-weight: 400;
   --title-regular-xxl-font-style: normal;
+
   --title-regular-xl-font-family: Roboto-Regular, sans-serif;
   --title-regular-xl-font-size: 26px;
   --title-regular-xl-line-height: 32px;
   --title-regular-xl-font-weight: 400;
   --title-regular-xl-font-style: normal;
+
   --title-regular-lg-font-family: Roboto-Regular, sans-serif;
   --title-regular-lg-font-size: 24px;
   --title-regular-lg-line-height: 28px;

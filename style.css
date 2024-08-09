@@ -208,6 +208,7 @@
   justify-content: flex-start;
   flex: 1;
   position: relative;
+  width: 100%;
 }
 .column-image {
   display: flex;
@@ -1679,6 +1680,7 @@
   flex-shrink: 0;
   padding-left: 24px;
   padding-right: 24px;
+  width: 100%;
 }
 .galery-image-column-flujo {
   padding: 50px 0px 50px 0px;
@@ -1692,6 +1694,7 @@
   width: 50%;
   top: 0px;
   z-index: 1;
+  max-height: 550px;
 }
 .molecules-galery-image {
   display: flex;
